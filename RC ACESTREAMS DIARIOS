@@ -74,15 +74,15 @@ acestream://662cceb5a2b23f2150172df24247fa220d8d95d4
 acestream://a2e878fbab5dff0e2cda01e74a88c7b32eb67913
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES7", M.L. Campeones 7 SD
 acestream://8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES8", M.L. Campeones 8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES8", M.L. Campeones 8 SD
 acestream://fdd9e3660059051660dbd7857443c2b807f258d0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES9", M.L. Campeones 9 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES9", M.L. Campeones 9 SD
 acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES10", M.L. Campeones 10
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES10", M.L. Campeones 10 SD
 acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES11", M.L. Campeones 11 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES11", M.L. Campeones 11 SD
 acestream://57e284a3c13100baeff7a88dc50949585c9f1277
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES12", M.L. Campeones 12 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+LCAMPEONES12", M.L. Campeones 12 SD
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdHQYXQ/Golf.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+ GOLF HD", M. Golf 1080
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
@@ -100,6 +100,8 @@ acestream://bfbcda5a0999256360ce560caf2a6473aafc3f11
 acestream://a0465ef421f30d0c68ff706654147762ec7b6c03
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN F1 HD", DAZN F1 1080 (F?rmula 1)
 acestream://c372020ed2744033f56548b6beb11a9f3e740f37
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN F1 HD", DAZN F1 1080 (F?rmula 1)
+acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN F1 HD", DAZN F1 720 (F?rmula 1)
 acestream://5853ff69c8588fe23ff5555261d4a43e6ad2f1ae
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hYsXDR/Gol.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="GOL HD", GOL TV 1080
