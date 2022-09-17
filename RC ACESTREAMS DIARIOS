@@ -117,7 +117,7 @@ acestream://b41d52a733be6f4709db3bdf33e260de2b67d27a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FJch0Y9/Cuatro.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="CUATRO HD", CUATRO 1080
 acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="By @Lucas_m_o_o_m" tvg-id="TELECINCO HD", TeleCinco 1080
-acestream://3441c0e7a316b4e19b818f546aaa480cfa90bd83
+acestream://cbf281d5e481697aa4184fe1de5e069928c95057
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qxWsCP/BeMad.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="BE MAD HD", BE MAD 1080
 acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
 
@@ -158,20 +158,22 @@ acestream://f3f14b89eb62839f97153593432370b5bd61a5df
 acestream://edfa1c981ad5dac59b6413434a7e69f40c57ab4d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @ManuK0S" tvg-id="", Evento del Momento 1080
 acestream://f305f91a3210858983697a9dc2bbd8f959e17ef8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @ManuK0S" tvg-id="", #Vamos 720
+acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @ManuK0S" tvg-id="", #Vamos 1080
-acestream://69539c018423fb4014ab29cef683f32d3374fd94
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @ManuK0S" tvg-id="", #Vamos 1080
-acestream://7e86f47e34131642e163e8ef8ce93e65ae9288bd
+acestream://ce91b10d6dee6f358c6b2a40b5e1926921712168
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @ManuK0S" tvg-id="", ML Campeones
 acestream://69539c018423fb4014ab29cef683f32d3374fd94
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @ManuK0S" tvg-id="", Real Madrid-RB vs Leipzig
-acestream://7e86f47e34131642e163e8ef8ce93e65ae9288bd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @ManuK0S" tvg-id="", Levante vs Cartagena, Off
+acestream://
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Avipetit" tvg-id="M+LCAMPEONES", M.L. Campeones 720
-acestream://f90c6899eb5cadb0050226548246adb56ceade8a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Avipetit" tvg-id="M+LCAMPEONES2", M.L. Campeones 2 720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="By @Avipetit" tvg-id="DAZN LaLiga", DAZN LaLiga 
+acestream://acefcfb8ec308c1ae5e66ccfc13a09bfbc6caa09
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="By @Avipetit" tvg-id="M+ LaLiga", M. LaLiga 
+acestream://b4d0c55b2a918da310e521b363e1f038247a11b3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="By @Avipetit" tvg-id="M+LCAMPEONES2", M.L. Campeones 2 720, Off
 acestream://91dce080463a5c6ee931fc5489a75ab54a5cb071
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="By @Avipetit" tvg-id="M+ LaLiga HD", Off
 acestream://
