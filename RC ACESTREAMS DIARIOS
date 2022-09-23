@@ -30,6 +30,7 @@ acestream://df98650743f24a245c44cdf2851e57078f4c487a
 acestream://c35d2207792128fc0ae49c40e885c463f664dbce
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN LaLiga2 HD", DAZN LaLiga 2
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="LaLiga SmartbankTV", LaLiga SmartBank 1080 MultiAudio
 acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="LaLiga SmartbankTV", LaLiga SmartBank 720
@@ -159,9 +160,9 @@ acestream://edfa1c981ad5dac59b6413434a7e69f40c57ab4d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @ManuK0S" tvg-id="", Evento del Momento 1080
 acestream://f305f91a3210858983697a9dc2bbd8f959e17ef8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @ManuK0S" tvg-id="", #Vamos 720
-acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
+acestream://137ccef306febbd4509b5a374f08df1151bf388c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @ManuK0S" tvg-id="", #Vamos 1080
-acestream://ce91b10d6dee6f358c6b2a40b5e1926921712168
+acestream://4cff8e802e9fb0b43fd4575444c3abac9ac00b40
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @ManuK0S" tvg-id="", ML Campeones
 acestream://69539c018423fb4014ab29cef683f32d3374fd94
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @ManuK0S" tvg-id="", Levante vs Cartagena, Off
