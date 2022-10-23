@@ -1,0 +1,25 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By RCP" tvg-id="Breogan VS Bilbao 18:00", Breogan VS Bilbao 18:00
+acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By RCP" tvg-id="Murcia VS Manresa  18:00", Murcia VS Manresa  18:00
+acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By RCP" tvg-id="Gerona VS Fuenlabrada 20:45", Gerona VS Fuenlabrada 20:45
+acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By RCP" tvg-id="Canarias VS granada 20:45", Canarias VS granada 20:45
+acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By RCP" tvg-id="Villareal b VS Andorra 16:15", Villareal b VS Andorra 16:15
+acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By RCP" tvg-id="Mirandés VS Huesca 18:30", Mirandés VS Huesca 18:30
+acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By RCP" tvg-id="Alavés VS sporting 18:30", Alavés VS sporting 18:30
+acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By RCP" tvg-id="Ibiza VS levante 21:00", Ibiza VS levante 21:00
+acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By RCP" tvg-id="Rayo vallecano VS Cádiz 14:00", Rayo vallecano VS Cádiz 14:00
+acestream://4229d640fecf3c0897674241bcf851b67f4310e3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By RCP" tvg-id="Valladolid VS real sociedad 16:15", Valladolid VS real sociedad 16:15
+acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By RCP" tvg-id="Valencia VS mallorca 18:30", Valencia VS mallorca 18:30
+acestream://4229d640fecf3c0897674241bcf851b67f4310e3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By RCP" tvg-id="Real Madrid VS Sevilla 21:00", Real Madrid VS Sevilla 21:00
