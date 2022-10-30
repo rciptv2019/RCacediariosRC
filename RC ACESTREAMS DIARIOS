@@ -42,7 +42,7 @@ acestream://1124d4366348b76a755710c8d0d5728e39d0095c
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="LaLiga SmartbankTV", LaLiga SmartBank 1080 MultiAudio
-acestream://d4fa689e575f7626c8b136c9ad8685b945d3ccc
+acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="LaLiga SmartbankTV", LaLiga SmartBank 720
 acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="LaLiga SmartbankTV 2", LaLiga SmartBank 2 1080
@@ -51,7 +51,7 @@ acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
 acestream://1000c018cf4afb7357f10e438e966d23340e4295
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+ #VAMOS", #Vamos 720v
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+ #VAMOS", #Vamos 720
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+ #VAMOSHD", #Vamos 1080
 acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
@@ -117,11 +117,11 @@ acestream://6709a124e9ec6c95d35496cfa59d8ba24ff2cfaf
 acestream://bfbcda5a0999256360ce560caf2a6473aafc3f11
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qjk9GPx/DAZN4.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN 4", DAZN 4 1080
 acestream://a0465ef421f30d0c68ff706654147762ec7b6c03
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN F1 HD", DAZN F1 1080 (F?rmula 1)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN F1 HD", DAZN F1 1080 (Formula 1)
 acestream://c372020ed2744033f56548b6beb11a9f3e740f37
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN F1 HD", DAZN F1 1080 (F?rmula 1)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN F1 HD", DAZN F1 1080 (Formula 1)
 acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN F1 HD", DAZN F1 720 (F?rmula 1)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN F1 HD", DAZN F1 720 (Formula 1)
 acestream://5853ff69c8588fe23ff5555261d4a43e6ad2f1ae
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hYsXDR/Gol.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="GOL HD", GOL TV 1080
 acestream://49c35606668ebf7a895434ec4c9243a163d87718
@@ -185,17 +185,43 @@ acestream://acefcfb8ec308c1ae5e66ccfc13a09bfbc6caa09
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="", 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="Málaga VS Betis 12:30", Málaga VS Betis 12:30
 acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="Real Madrid VS Fuenlabrada 12:30", Real Madrid VS Fuenlabrada 12:30
+acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="Valencia basket VS barsa 18:30", Valencia basket VS barsa 18:30
+acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="Gerona VS Murcia 19:15", Gerona VS Murcia 19:15
+acestream://0c8935087510ee1c5117243a6cc46f9d6d795faf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="Bilbao VS baskonia 21:00", Bilbao VS baskonia 21:00
+acestream://85bd65161dfd8c4033194da3c978c0450c9111db
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="NBA pelicanos VS Clippers 21:00", NBA pelicanos VS Clippers 21:00
+acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="Lugo VS mirandés 14:00", Lugo VS mirandés 14:00
+acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="Málaga VS Eibar 16:15", Málaga VS Eibar 16:15
+acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="Albacete VS Villareal b 21:00", Albacete VS Villareal b 21:00
+acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="Osasuna VS Valladolid 14:00", Osasuna VS Valladolid 14:00
+acestream://df98650743f24a245c44cdf2851e57078f4c487a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="Real Madrid VS Gerona 16:15", Real Madrid VS Gerona 16:15
+acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="Athletic VS Villareal 18:30", Athletic VS Villareal 18:30
+acestream://df98650743f24a245c44cdf2851e57078f4c487a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="Real sociedad VS Betis 21:00", Real sociedad VS Betis 21:00
+acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Jonatan" tvg-id="DAZN F1", DAZN F1 (Formula 1)
+acestream://c372020ed2744033f56548b6beb11a9f3e740f37
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" group-title="By @Danny" tvg-id="Real Betis - At Madrid", Real Betis - At Madrid
-acestream://fce57732100f78dc96a27c5571fe1fa0080a3841
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" group-title="By @Danny" tvg-id="Formula 1 4k", Formula 1 4k
-acestream://fce57732100f78dc96a27c5571fe1fa0080a3841
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" group-title="By @Danny" tvg-id="Valencia vs Barcelona a 4k 21:00", Real Betis - At Madrid (4k)
+acestream://94774eb9d2d6b0577a7a1732ddc586ad778b2657
 
 
 
